@@ -7,10 +7,10 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("MySimon")>
+<Assembly: AssemblyTitle("doneapi v1")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("MySimon")>
+<Assembly: AssemblyProduct("doneapi v1")>
 <Assembly: AssemblyCopyright("Copyright ©  2022")>
 <Assembly: AssemblyTrademark("")>
 

@@ -172,7 +172,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
-  <Import Project="..\MySimon_SHARE\QSys_SHARE.projitems" Label="Shared" />
+  <Import Project="..\done_api_SHARE\QSys_SHARE.projitems" Label="Shared" />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
