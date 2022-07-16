@@ -12,5 +12,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)ClsCompareFileInfo.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)comLib.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)dbLib_IO.vb" />
+    <Compile Include="$(MSBuildThisFileDirectory)DNACall.vb" />
   </ItemGroup>
 </Project>

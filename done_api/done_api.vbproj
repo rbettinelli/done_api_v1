@@ -92,7 +92,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\mainStyle.css" />
     <Content Include="Global.asax" />
+    <Content Include="Image\Cell.png" />
+    <Content Include="Image\WIP.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="MyWebService.asmx" />
     <Content Include="Web.config" />

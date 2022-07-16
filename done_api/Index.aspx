@@ -5,10 +5,15 @@
     <div class="container">
         <div class="card">
             <div class="card-header" style="text-align: center;">
-                <h4>Done</h4>
+                <h4>Comming soon..</h4>
             </div>
             <div class="card-body">
-                API. Web Test.
+                <div style="text-align:center;">
+<br />
+                <img id="cell" src="Image/Cell.png" width="200" /><br /><br />
+                <img src="Image/WIP.jpg" width="200"/>
+                </div>
+                
             </div>
         </div>
     </div>
